@@ -1,2 +1,2 @@
 # bhg
-Code samples for the No Starch Press Black Hat Go
+My fork of the Black Hat Go example codebase. 
